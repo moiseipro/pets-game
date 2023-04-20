@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6e7ebc04f0407286f0f091bd5ec4a5, type: 3}
+  m_Name: Bird1
+  m_EditorClassIdentifier: 
+  PetModel:
+    _name: Dogy
+    _height: 1.2
+    _weight: 20
+    _favoriteFood: 030000000600000004000000
+    _unlovedFood: 00000000010000000200000005000000
+    _dirty: 0
+    _hungry: 0.3
+    _petSprite: 8
+    _level: 1
+    _maxLevel: 5
